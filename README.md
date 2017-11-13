@@ -1,4 +1,4 @@
-# RecSys
+Movie Recommender System
 A hybrid movie recommender system which uses Pearson Correlation Similarity Measure for comparing users and K-Means clustering for classifying movies.
 
 A utility matrix is pickled in this repo which stores the rating for each user-item pair.

@@ -1,6 +1,4 @@
-"""
-Simple User Interface
-"""
+
 from movielens import *
 from sklearn.cluster import KMeans
 
